@@ -2,20 +2,19 @@
   <img src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" width="100"/></br>
   <p><b>👋 Hi, I’m @LinqCod</b></br><i>📫 Contact me: @linqcod - telegram</i></p>
 </div>
-
----
-### :woman_technologist: About Me:
-<div>
-  &emsp;:mortar_board: &emsp;Studing in RTU-MIREA University</br>
-  &emsp;👀 &emsp;Interested in computer science // Especially in web development /</br>
-  &emsp;🌱 &emsp;Currently learning backend development with golang</br>
-  &emsp;:briefcase: &emsp;Worked for Wildberries for a while // now develop and work on my own projects /
-</div>
-<hr>
 <div align="center">
   <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=dark&background=000000&hide_border=true">
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </div>
+
+### :woman_technologist: About Me:
+<div>
+  &emsp;:mortar_board: &emsp;Studing in RTU-MIREA University</br>
+  &emsp;👀 &emsp;Interested in computer science // Especially in web development</br>
+  &emsp;🌱 &emsp;Currently learning backend development with golang</br>
+  &emsp;:briefcase: &emsp;Worked for Wildberries for a while // now develop and work on my own projects
+</div>
+
 <!-- <hr> -->
 <!-- <div align="center">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
