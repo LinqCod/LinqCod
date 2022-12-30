@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" width="100"/></br>
-  <p><b>👋 Hi, I’m @LinqCod</b></br><i>📫 Contact me: @linqcod - telegram</i></p>
+  <p><b>👋 Hi, I’m @LinqCod</b></p>
   <span>
   <a href="https://telegram.me/linqcod">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
