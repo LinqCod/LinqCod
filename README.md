@@ -1,21 +1,36 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/l1J9MU7JDGBu8VQwU/giphy.gif" width="100"/></br>
   <p><b>👋 Hi, I’m @LinqCod</b></br><i>📫 Contact me: @linqcod - telegram</i></p>
+  <span>
+  <a href="https://telegram.me/linqcod">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white"/>
+  </a>
+  <a href="mailto:linqcod@yandex.ru">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/linqcod/?tab=follow">
+    <img src="https://img.shields.io/github/followers/linqcod?label=Follow&style=social" />
+  </a>
+</span>
 </div>
+</br>
+</br>
 <div align="center">
-  <img height="150px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=dark&background=000000&hide_border=true">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&theme=vision-friendly-dark&hide_border=true">
+  <img width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=dark&background=000000&hide_border=true"></br>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=linqcod&count_private=true&show_icons=true&custom_title=Github%20Status&layout=compact&theme=vision-friendly-dark&hide_border=true"
+/>
+  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </div>
 </br>
 
 ### :woman_technologist: About Me:
 <div>
-  &emsp;:mortar_board: &emsp;Studing in RTU-MIREA University</br>
-  &emsp;👀 &emsp;Interested in computer science // Especially in web development</br>
-  &emsp;🌱 &emsp;Currently learning backend development with golang</br>
-  &emsp;:briefcase: &emsp;Worked for Wildberries for a while // now develop and work on my own projects
+  &emsp;:mortar_board: &emsp;Studing in <b>RTU-MIREA University</b></br>
+  &emsp;👀 &emsp;Learning more about and studying: <b>Backend, Systems Design</b></br>
+  &emsp;⚡ &emsp;Skills: <b>Golang, Java, HTML, CSS, JS, Vue.js, Postgres, MySQL, Docker, Git, gRPC, REST, Nats-streaming </b></br>
+  &emsp;:briefcase: &emsp;Worked for Wildberries for a while. <b>Feel free to get in touch!</b>
 </div>
-
+<hr>
 <!-- <hr> -->
 <!-- <div align="center">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
