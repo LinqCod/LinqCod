@@ -16,10 +16,10 @@
 </br>
 </br>
 <div align="center">
-  <img width="350px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=dark&background=000000&hide_border=true"></br>
-  <img height="120px" src="https://github-readme-stats.vercel.app/api?username=linqcod&count_private=true&show_icons=true&custom_title=Github%20Status&layout=compact&theme=vision-friendly-dark&hide_border=true"
+  <img height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=tokyonight_duo&hide_border=true"></br>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&hide_title=true&theme=transparent&hide_border=true">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=linqcod&count_private=true&show_icons=true&hide_title=true&custom_title=Github%20Status&hide_rank=true&theme=transparent&hide_border=true"
 />
-  <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&theme=vision-friendly-dark&hide_border=true">
 </div>
 </br>
 
