@@ -14,14 +14,6 @@
 </span>
 </div>
 </br>
-</br>
-<div align="center">
-  <img height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=tokyonight_duo&hide_border=true"></br>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&hide_title=true&theme=transparent&hide_border=true">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=linqcod&count_private=true&show_icons=true&hide_title=true&custom_title=Github%20Status&hide_rank=true&theme=transparent&hide_border=true"
-/>
-</div>
-</br>
 
 ### :woman_technologist: About Me:
 <div>
@@ -30,7 +22,21 @@
   &emsp;⚡ &emsp;Skills: <b>Golang, Java, HTML, CSS, JS, Vue.js, Postgres, MySQL, Docker, Git, gRPC, REST, Nats-streaming </b></br>
   &emsp;:briefcase: &emsp;Worked for Wildberries for a while. <b>Feel free to get in touch!</b>
 </div>
+
+</br>
+</br>
+<div align="center">
+  <img height="250px" src="http://github-readme-streak-stats.herokuapp.com?user=linqcod&theme=tokyonight_duo&hide_border=true"></br>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linqcod&layout=compact&hide_title=true&theme=transparent&hide_border=true">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=linqcod&count_private=true&show_icons=true&hide_title=true&custom_title=Github%20Status&hide_rank=true&theme=transparent&hide_border=true"
+/>
+</div>
+</br>
 <hr>
+<div align="center">
+  linqcod@git // 2022
+</div>
+
 <!-- <hr> -->
 <!-- <div align="center">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
