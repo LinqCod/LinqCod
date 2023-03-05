@@ -34,7 +34,7 @@
 </br>
 <hr>
 <div align="center">
-  linqcod@git // 2022
+  linqcod@git // 2023
 </div>
 
 <!-- <hr> -->
